@@ -1,5 +1,8 @@
-## Hi there 👋
+### Добро пожаловать на мою страницу
 
+Меня зовут Никита, я студент направления Прикладной Матиматики и Информатики
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,git,cpp,java)](https://skillicons.dev)
 <!--
 **SemernikovNikita/SemernikovNikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
